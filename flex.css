@@ -1,0 +1,789 @@
+.cart-box {
+    width: 80%;
+    height: 120px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-top: 30px;
+    margin-left: 450px;
+    margin-right: 40px;
+    display: flex;
+    background-color: #f0f3f2;
+}
+
+.cart-image {
+    height: 100%;
+    border-radius: 5px;
+    margin-left: 20px;
+
+
+}
+
+.header {
+
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 15px;
+}
+
+.content {
+    margin-left: -228px;
+    margin-top: 70px;
+    color: #333;
+}
+
+.download-button {
+    padding: 10px 20px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    border-radius: 5px;
+    margin-top: 40px;
+    margin-left: 600px;
+    cursor: pointer;
+}
+
+.heading {
+    font-size: 24px;
+    font-weight: bold;
+    margin-top: 50px;
+    margin-bottom: 5px;
+    margin-right: 5px;
+    margin-left: 55px;
+
+}
+
+.c-code1 {
+    background-image: url('https://freshcart-next-js.vercel.app/images/banner/ad-banner-1.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 28%;
+    height: 250px;
+    border-radius: 5px;
+    position: relative;
+    margin-top: 20px;
+    display: inline-block;
+    margin-top: 50px;
+    font-size: 20px;
+    margin-left: 50px;
+    font: bold;
+}
+.c-code2{
+    background-image: url('https://freshcart-next-js.vercel.app/images/banner/ad-banner-2.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 28%;
+    height: 250px;
+    border-radius: 5px;
+    position: relative;
+    margin-top: 20px;
+    display: inline-block;
+    margin-top: 50px;
+    font-size: 20px;
+    margin-left: 40px;
+    font: bold;
+}
+.c-code3{
+    background-image: url('https://freshcart-next-js.vercel.app/images/banner/ad-banner-3.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 28%;
+    height: 250px;
+    border-radius: 5px;
+    position: relative;
+    margin-top: 20px;
+    display: inline-block;
+    margin-top: 50px;
+    font-size: 20px;
+    margin-left: 40px;
+    font: bold;
+
+}
+
+
+.c-header {
+    margin-top: 12%;
+    font-weight: bold;
+    font-size: 28px;
+    margin-left: 30px;
+
+}
+
+.c-m {
+    margin-top: 10px;
+    margin-left: 30px;
+    font-size: 18px;
+    color: #686464;
+}
+
+.c-m-text {
+    margin-top: -35px;
+    margin-bottom: 100px;
+    margin-left: 80px;
+    font-size: 16px;
+    color: black;
+    font-weight: bold;
+
+}
+.c-button {
+    background-color: black;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+    height: 35px;
+    width: 100px;
+    margin-left: 30px;
+    cursor: pointer;
+    border: none;
+    font-size: 14px;
+    position: absolute;
+    bottom: 20px;
+}
+
+.box1 {
+    width: 150px;
+    height: 150px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 50px;
+    margin-right: -25px;
+    padding: 10px;
+    display: inline-block;
+
+}
+
+.box1-img {
+    border-radius: 5px;
+    margin-left: 10px;
+
+    margin-bottom: 30px;
+    width: 300px;
+    height: 250px;
+    display: inline-block;
+    padding: 20px;
+
+}
+
+.box1-text {
+
+    margin-left: -100px;
+    margin-right: 60px;
+    text-align: center;
+
+    margin-top: 20px;
+    color: #686464;
+    font-size: 14px;
+}
+
+.fruits {
+    border: 1px solid #ccc;
+    height: 350px;
+    width: 235px;
+    border-radius: 10px;
+    margin-left: 50px;
+    margin-right: -25px;
+    display: inline-block;
+    overflow: hidden;
+    align-items: center;
+    padding: 5px;
+    margin-bottom: 10px;
+}
+
+.card-image {
+    height: 5px;
+    width: 5px;
+    align-items: center;
+    display: inline-block;
+    margin-top: -20;
+    margin-bottom: auto;
+
+
+}
+
+.button {
+    background-color: rgb(36, 149, 36);
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+    height: 35px;
+    width: 70px;
+    margin-left: 40px;
+    margin-bottom: 90px;
+    margin-right: 5px;
+    cursor: pointer;
+    border: none;
+    font-size: 16px;
+    display: inline-block;
+}
+
+.card-content {
+    margin-left: 20px;
+    margin-top: -15px;
+    margin-bottom: -10px;
+    color: rgba(55, 68, 75, 0.85);
+    font-size: 14px;
+}
+
+.title {
+    margin-left: 20px;
+    font-size: 15px;
+    font-weight: bold;
+    font-style: normal;
+}
+
+.star {
+    color: gold;
+    font-size: 25px;
+    margin-left: 15px;
+    margin-top: -20px;
+}
+
+.rating {
+    font-size: 16px;
+    color: rgba(55, 68, 75, 0.85);
+    display: inline-block;
+    margin-left: 0px;
+    margin-bottom: 20px;
+
+}
+
+.price {
+    font-size: 18px;
+    display: inline-block;
+    color: gray;
+    text-decoration: line-through;
+    margin-bottom: 0px;
+}
+
+.currency {
+    font-size: 18px;
+    margin-left: 20px;
+    display: inline-block;
+    margin-bottom: 50px;
+}
+
+.matter {
+    margin-left: 59px;
+    font-size: 14px;
+    color: #686464;
+}
+
+.box2 {
+    border: 1px solid grey;
+    height: 250px;
+    border-radius: 10px;
+    margin-top: 30px;
+    margin-left: 50px;
+    margin-right: 20px;
+    margin-bottom: 5px;
+    width: 280px;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    display: inline-block;
+    border: hidden;
+}
+
+.box2 img {
+    width:40px;
+    height: auto;
+    margin-bottom: 5px;
+    display: inline-block;
+}
+
+.box2 p {
+    margin-top: 5px;
+    margin-bottom: 10px;
+    line-height: 1.4;
+    font-size: 13px;
+    color: #686464;
+}
+
+.box2 h3 {
+    margin-top: 5px;
+    margin-bottom: 10px;
+    font-size: 17px;
+    font-weight: bold;
+}
+.mobile-hr1 {
+    margin: 1rem 0;
+    color: #dfe2e1;
+    border: 0;
+    border-top: 1px solid #dfe2e1;
+    opacity: 1;
+    margin-left: 40px;
+    margin-right: 100px;
+    margin-top: 100px;
+    margin-bottom: 90px;
+}
+.mobile-img{
+    
+    margin-left: 400px;
+    margin-right: 10px;
+    margin-bottom: 250px;
+    height: auto;
+    
+}
+.mobile-head{
+    font-size: 20px;
+    margin-left: 800px;
+    margin-right: 10px;
+    margin-top: -700px;
+    margin-bottom: 5px;
+}
+.m-h{
+    font-size: 28px;
+    color:black;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+.m-d{
+    font-size: 16px;
+    margin-top: 0px;
+    margin-bottom: 30px;
+    color: #5c6c75;
+
+}
+.mobile-checkbox {
+    margin-top: 30px;   
+    accent-color: green; 
+    
+}
+.mobile-radio {
+   color: grey;
+   font-size: 16px; 
+}
+.mobile-input-box{
+    margin-top: 20px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    width:250px;
+    height: 40px;
+   text-align: left;
+    padding-left: 10px;
+    font-size: 14px;
+    color: #333;
+    margin-bottom: 20px;
+
+}
+.mobile-button {
+    margin-top: 20px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    width:150px;
+    height: 40px;
+    text-align: left;
+    padding-left: 10px;
+    font-size: 16px;
+    color: white;
+    background-color:green;
+    cursor: pointer;
+    
+}
+.mobile-hr2 {
+    margin: 1rem 0;
+    color: #dfe2e1;
+    border: 0;
+    border-top: 1px solid #dfe2e1;
+    opacity: 1;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 230px;
+    margin-bottom: 100px;
+}.cart-box {
+    width: 90%;
+    height: 120px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-top: 30px;
+    margin-left: 50px;
+    margin-right: 40px;
+    display: flex;
+    background-color: #f0f3f2;
+}
+
+.cart-image {
+    height: 100%;
+    border-radius: 5px;
+    margin-left: 20px;
+
+
+}
+
+.header {
+
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 15px;
+}
+
+.content {
+    margin-left: -228px;
+    margin-top: 70px;
+    color: #333;
+}
+
+.download-button {
+    padding: 10px 20px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    border-radius: 5px;
+    margin-top: 40px;
+    margin-left: 600px;
+    cursor: pointer;
+}
+
+.heading {
+    font-size: 24px;
+    font-weight: bold;
+    margin-top: 50px;
+    margin-bottom: 5px;
+    margin-right: 5px;
+    margin-left: 55px;
+
+}
+
+.c-code1 {
+    background-image: url('https://freshcart-next-js.vercel.app/images/banner/ad-banner-1.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 28%;
+    height: 250px;
+    border-radius: 5px;
+    position: relative;
+    margin-top: 20px;
+    display: inline-block;
+    margin-top: 50px;
+    font-size: 20px;
+    margin-left: 50px;
+    font: bold;
+}
+.c-code2{
+    background-image: url('https://freshcart-next-js.vercel.app/images/banner/ad-banner-2.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 28%;
+    height: 250px;
+    border-radius: 5px;
+    position: relative;
+    margin-top: 20px;
+    display: inline-block;
+    margin-top: 50px;
+    font-size: 20px;
+    margin-left: 40px;
+    font: bold;
+}
+.c-code3{
+    background-image: url('https://freshcart-next-js.vercel.app/images/banner/ad-banner-3.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 28%;
+    height: 250px;
+    border-radius: 5px;
+    position: relative;
+    margin-top: 20px;
+    display: inline-block;
+    margin-top: 50px;
+    font-size: 20px;
+    margin-left: 40px;
+    font: bold;
+
+}
+
+
+.c-header {
+    margin-top: 12%;
+    font-weight: bold;
+    font-size: 28px;
+    margin-left: 30px;
+
+}
+
+.c-m {
+    margin-top: 10px;
+    margin-left: 30px;
+    font-size: 18px;
+    color: #686464;
+}
+
+.c-m-text {
+    margin-top: -35px;
+    margin-bottom: 100px;
+    margin-left: 80px;
+    font-size: 16px;
+    color: black;
+    font-weight: bold;
+
+}
+.c-button {
+    background-color: black;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+    height: 35px;
+    width: 100px;
+    margin-left: 30px;
+    cursor: pointer;
+    border: none;
+    font-size: 14px;
+    position: absolute;
+    bottom: 20px;
+}
+
+.box1 {
+    width: 180px;
+    height: 200px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 50px;
+    margin-right: -25px;
+    padding: 10px;
+    display: inline-block;
+
+}
+
+.box1-img {
+    border-radius: 5px;
+    margin-left: 10px;
+
+    margin-bottom: 30px;
+    width: 300px;
+    height: 250px;
+    display: inline-block;
+    padding: 20px;
+
+}
+
+.box1-text {
+
+    margin-left: -100px;
+    margin-right: 60px;
+    text-align: center;
+
+    margin-top: 20px;
+    color: #686464;
+    font-size: 14px;
+}
+
+.fruits {
+    border: 1px solid #ccc;
+    height: 350px;
+    width: 235px;
+    border-radius: 10px;
+    margin-left: 50px;
+    margin-right: -25px;
+    display: inline-block;
+    overflow: hidden;
+    align-items: center;
+    padding: 5px;
+    margin-bottom: 10px;
+}
+
+.card-image {
+    height: 5px;
+    width: 5px;
+    align-items: center;
+    display: inline-block;
+    margin-top: -20;
+    margin-bottom: auto;
+
+
+}
+
+.button {
+    background-color: rgb(36, 149, 36);
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+    height: 35px;
+    width: 70px;
+    margin-left: 40px;
+    margin-bottom: 90px;
+    margin-right: 5px;
+    cursor: pointer;
+    border: none;
+    font-size: 16px;
+    display: inline-block;
+}
+
+.card-content {
+    margin-left: 20px;
+    margin-top: -15px;
+    margin-bottom: -10px;
+    color: rgba(55, 68, 75, 0.85);
+    font-size: 14px;
+}
+
+.title {
+    margin-left: 20px;
+    font-size: 15px;
+    font-weight: bold;
+    font-style: normal;
+}
+
+.star {
+    color: gold;
+    font-size: 25px;
+    margin-left: 15px;
+    margin-top: -20px;
+}
+
+.rating {
+    font-size: 16px;
+    color: rgba(55, 68, 75, 0.85);
+    display: inline-block;
+    margin-left: 0px;
+    margin-bottom: 20px;
+
+}
+
+.price {
+    font-size: 18px;
+    display: inline-block;
+    color: gray;
+    text-decoration: line-through;
+    margin-bottom: 0px;
+}
+
+.currency {
+    font-size: 18px;
+    margin-left: 20px;
+    display: inline-block;
+    margin-bottom: 50px;
+}
+
+.matter {
+    margin-left: 59px;
+    font-size: 14px;
+    color: #686464;
+}
+
+.box2 {
+    border: 1px solid grey;
+    height: 250px;
+    border-radius: 10px;
+    margin-top: 30px;
+    margin-left: 50px;
+    margin-right: 20px;
+    margin-bottom: 5px;
+    width: 280px;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    display: inline-block;
+    border: hidden;
+}
+
+.box2 img {
+    width:40px;
+    height: auto;
+    margin-bottom: 5px;
+    display: inline-block;
+}
+
+.box2 p {
+    margin-top: 5px;
+    margin-bottom: 10px;
+    line-height: 1.4;
+    font-size: 13px;
+    color: #686464;
+}
+
+.box2 h3 {
+    margin-top: 5px;
+    margin-bottom: 10px;
+    font-size: 17px;
+    font-weight: bold;
+}
+.mobile-hr1 {
+    margin: 1rem 0;
+    color: #dfe2e1;
+    border: 0;
+    border-top: 1px solid #dfe2e1;
+    opacity: 1;
+    margin-left: 40px;
+    margin-right: 100px;
+    margin-top: 100px;
+    margin-bottom: 90px;
+}
+.mobile-img{
+    
+    margin-left: 400px;
+    margin-right: 10px;
+    margin-bottom: 250px;
+    height: auto;
+    
+}
+.mobile-head{
+    font-size: 20px;
+    margin-left: 800px;
+    margin-right: 10px;
+    margin-top: -700px;
+    margin-bottom: 5px;
+}
+.m-h{
+    font-size: 28px;
+    color:black;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+.m-d{
+    font-size: 16px;
+    margin-top: 0px;
+    margin-bottom: 30px;
+    color: #5c6c75;
+
+}
+.mobile-checkbox {
+    margin-top: 30px;   
+    accent-color: green; 
+    
+}
+.mobile-radio {
+   color: grey;
+   font-size: 16px; 
+}
+.mobile-input-box{
+    margin-top: 20px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    width:250px;
+    height: 40px;
+   text-align: left;
+    padding-left: 10px;
+    font-size: 14px;
+    color: #333;
+    margin-bottom: 20px;
+
+}
+.mobile-button {
+    margin-top: 20px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    width:150px;
+    height: 40px;
+    text-align: left;
+    padding-left: 10px;
+    font-size: 16px;
+    color: white;
+    background-color:green;
+    cursor: pointer;
+    
+}
+.mobile-hr2 {
+    margin: 1rem 0;
+    color: #dfe2e1;
+    border: 0;
+    border-top: 1px solid #dfe2e1;
+    opacity: 1;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 230px;
+    margin-bottom: 100px;
+}

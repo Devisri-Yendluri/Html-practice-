@@ -1,0 +1,70 @@
+.registration form{
+    border:1px solid;
+    padding-left:50px;
+    padding-right:50px;
+    padding-bottom:20x;
+    padding-top:30px;
+    margin-left:100x;
+    margin-right:700px;
+    width:470px;
+    height:800px;
+    background:lightgreen;
+    color:black;
+    margin:auto;
+    font-size:16px;
+
+}
+.heading{
+    font-size:24px;
+    color:black;
+    margin-bottom:20px;
+    text-align:center;
+}
+.form-group{
+    margin-bottom:20px;
+
+}
+.custom-input{
+    width:220px;
+    height:20px;
+    padding:5px;
+    border:1px solid #ccc;
+    border-radius:4px;
+    font-size:16px;
+    color:black;
+    margin-left:10px;
+
+}
+label{
+    font-size:18px;
+    font-weight:bold;
+    margin-right:70px;
+    margin-left:10px;
+    display:inline-block;
+    width:100px;
+}
+.custom-button{
+    background-color:bisque;
+    width:100px;
+    height:40px;
+    padding:10px 5px;
+    cursor:pointer;
+    border:none;
+    font-size:16px;
+    color:black;
+    font-weight:bold;
+    transition:background-color 0.3s ease;
+}
+.button-center{
+    text-align:center;
+    margin-top:40px;
+    margin-left:100px;
+    margin-right:100px;
+    margin-bottom:0px;
+}
+.checkbox-label{
+    font-size:18px;
+    color:black;
+    margin-left:10px;
+
+}
